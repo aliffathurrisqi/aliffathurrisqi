@@ -29,11 +29,11 @@
 
 <h3 align="left">Software & Tools:</h3>
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/></p>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="ilustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></p>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="40" height="40"/>
-<img src="https://www.mnhazim.com/images/sqlyog.png" alt="sqlyog" width="40" height="40"/>
+<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0f3c2e06516704a6a902831d7e2f1de9/sqlyog.png" alt="sqlyog" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aliffathurrisqi" /></p>
