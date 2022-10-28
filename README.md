@@ -19,8 +19,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="golang" width="40" height="40"/>
 </p>
-
 <h3 align="left">Framework:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -32,6 +32,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="ilustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/inkscape-logo-1.svg" alt="inkscape" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="40" height="40"/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0f3c2e06516704a6a902831d7e2f1de9/sqlyog.png" alt="sqlyog" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/>
