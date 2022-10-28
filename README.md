@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliffathur Risqi Hidayat</h1>
 <!-- <h3 align="center">I'm currently studying mobile development, especially Flutter.</h3> -->
 
-- 🌱 I’m currently learning **Laravel, Javascript & Angular**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Web Development**
 
