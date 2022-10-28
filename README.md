@@ -38,6 +38,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/>
 </p>
 
+<center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aliffathurrisqi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en" alt="aliffathurrisqi" /></p>
+</center>
