@@ -32,7 +32,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="ilustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/inkscape-logo-1.svg" alt="inkscape" width="40" height="40"/>
+<img src="https://png.vector.me/files/images/2/5/254278/logo_inkscape_preview" alt="inkscape" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="40" height="40"/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0f3c2e06516704a6a902831d7e2f1de9/sqlyog.png" alt="sqlyog" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/>
