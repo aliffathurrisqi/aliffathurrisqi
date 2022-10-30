@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
