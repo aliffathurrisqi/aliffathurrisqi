@@ -1,45 +1,44 @@
-<h1 align="center">Hi 👋, I'm Aliffathur Risqi Hidayat</h1>
-<!-- <h3 align="center">I'm currently studying mobile development, especially Flutter.</h3> -->
+<h1 align='center'> Hi there 👋, I'm Aliffathur Risqi Hidayat  👩‍💻 </h1>
 
-<!-- - 🌱 I’m currently learning **Go & Fiber** -->
-
-- 💬 Ask me about **Web Programming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aliffathurrisqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliffathurrisqi" height="30" width="40" /></a>
+<p align='center'>
+  Halo, Saya saat ini tinggal di Surabaya
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="android" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="golang" width="40" height="40"/>
-</p>
-<h3 align="left">Framework:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="bootstrap" width="40" height="40"/> 
+<!-- <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=aliffathurrisqi.aliffathurrisqi?style=for-the-badge&logo=appveyor"></a>
+</p> -->
+
+
+<p align='center'>
+  <a href="https://linkedin.com/in/aliffathurrisqi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aliffathurrisqi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
-<h3 align="left">Software & Tools:</h3>
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="ilustrator" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://itsubuntu.com/wp-content/uploads/2019/01/install-inkscape-linux.png" alt="inkscape" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="40" height="40"/>
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0f3c2e06516704a6a902831d7e2f1de9/sqlyog.png" alt="sqlyog" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/composer.svg" alt="composer" width="40" height="40"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en&layout=compact" alt="aliffathurrisqi" /></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F"/>&nbsp;&nbsp;
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en" alt="aliffathurrisqi" /></p>
-</center>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>&nbsp;&nbsp;
+  </p>
+
+
+
