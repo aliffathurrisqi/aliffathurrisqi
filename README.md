@@ -35,5 +35,15 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />&nbsp;&nbsp;
  </p>
 
-
-
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en&layout=compact"
+      alt="aliffathurrisqi"
+    />
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=aliffathurrisqi&show_icons=true&theme=dark&locale=en"
+      alt="aliffathurrisqi"
+    />
+  </p>
