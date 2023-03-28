@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Aliffathur Risqi Hidayat  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Aliffathur Risqi Hidayat</h1>
 
 <!-- <p align='center'>
   Halo, Saya saat ini tinggal di Surabaya
