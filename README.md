@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Aliffathur Risqi Hidayat  👩‍💻 </h1>
 
-<p align='center'>
+<!-- <p align='center'>
   Halo, Saya saat ini tinggal di Surabaya
-</p>
+</p> -->
 
 <!-- <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=aliffathurrisqi.aliffathurrisqi?style=for-the-badge&logo=appveyor"></a>
